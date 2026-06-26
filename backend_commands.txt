@@ -1,0 +1,10 @@
+Copy these commands to start the backend:
+
+cd c:\app\pump_pilot\python_backend
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+Alternative method:
+Double-click the start_backend.bat file
+
+Backend will run at: http://localhost:8000
+API docs at: http://localhost:8000/docs
